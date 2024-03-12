@@ -5,6 +5,8 @@ npm install
 Step 2:
 
 Change you API keys
+export FINNHUB_API_KEY=key
+export OPENAI_API_KEY= key
 
 Step 3:
 run the development server:
